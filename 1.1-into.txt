@@ -1,0 +1,19 @@
+Software (Produto)
+    Conjunto de instruções (Programa)
+        Produzem a Função e Desempenho desejados
+        Possibilitando a Transformação e Manipulação da Estrutura de dados 
+        Adequadamente em Informações e soluções coerentes ao problema a ser solucionado
+    Documentação
+        Possibilite o entendimento, operacionabilidade e utilização do Software  
+    Portabilidade, Flexibilidade e Reutilização
+    Teste de Software 
+    Difere da Manufatura
+        O Trabalho é de Engenharia não Manofatura
+        O produto não se desgasta
+        Na maioria são desenvolvidos sob medidas
+
+Engenharia de Software
+    Tempo de Produção
+    Custo de Produção
+    Detecção de Erros
+    Mensuração do desenvolvimento
