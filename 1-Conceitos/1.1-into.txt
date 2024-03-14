@@ -2,7 +2,9 @@ Software (Produto)
     Conjunto de instruções (Programa)
         Produzem a Função e Desempenho desejados
         Possibilitando a Transformação e Manipulação da Estrutura de dados 
+                                                                            (SO)(Linux)(Mariadb)(mySql)(Sql)(Select)(From)(Where)(Orde_by)
         Adequadamente em Informações e soluções coerentes ao problema a ser solucionado
+                                                                            (SO)(Windows)(Sql_Server)(Model)(PowerBI)
     Documentação
         Possibilite o entendimento, operacionabilidade e utilização do Software  
     Portabilidade, Flexibilidade e Reutilização
